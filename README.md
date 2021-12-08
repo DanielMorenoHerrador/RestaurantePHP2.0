@@ -2,7 +2,7 @@
 
 ## Descripción Proyecto:
 
-Proyecto desplegado en Heroku: https://restaurante-php-equipo.herokuapp.com/
+Proyecto desplegado en Heroku: https://restaurantephp2.herokuapp.com/
 
 ## Estructura: 
 ## -Existen 5 carpetas principales en el proyecto (db, img, pages, styles y template)
