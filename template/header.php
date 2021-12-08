@@ -20,7 +20,7 @@ echo '<!DOCTYPE html>
     </div>
     <div class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-right">
-            <li><a href="https://restaurantephp2.herokuapp.com">Home</a></li>
+            <li><a href="https://restaurantephp2.herokuapp.com/index.php">Home</a></li>
             <li><a href="https://restaurantephp2.herokuapp.com/pages/Login/login.php">Login</a></li>
             <li><a href="https://restaurantephp2.herokuapp.com/pages/Register/register.php">Registrate</a></li>
             <li><a href="https://restaurantephp2.herokuapp.com/pages/Plato/listaplatos.php">Lista de platos</a></li>
